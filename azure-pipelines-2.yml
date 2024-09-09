@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  traning pool
+  training pool
 strategy:
   matrix:
     Python27:
